@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.97240215.css",
-    "main.js": "/static/js/main.8a41f094.js",
+    "main.css": "/static/css/main.0e8cf27a.css",
+    "main.js": "/static/js/main.0e82d3a7.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/profile.png": "/static/media/profile.94ce78b56cd6ee3165ca.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.e606120a3fba6cfb8c4e.png",
@@ -12,16 +12,14 @@
     "static/media/wordpress.png": "/static/media/wordpress.a8c4b03e0fd10a7e6467.png",
     "static/media/javascript.png": "/static/media/javascript.4db7dbf8c4c5d3d036c4.png",
     "static/media/Rohit-Marne-Resume.pdf": "/static/media/Rohit-Marne-Resume.374cabeabe589f9d531d.pdf",
-    "static/media/blog-2.jpg": "/static/media/blog-2.30573cb44598d4eb8e3a.jpg",
-    "static/media/blog-3.jpg": "/static/media/blog-3.0697b8a7564992ab1eae.jpg",
-    "static/media/blog-1.jpg": "/static/media/blog-1.831c2096bf1b55c3cf6c.jpg",
+    "static/media/project-1.jpg": "/static/media/project-1.330c25f0794fc7aa5a9d.jpg",
     "index.html": "/index.html",
-    "main.97240215.css.map": "/static/css/main.97240215.css.map",
-    "main.8a41f094.js.map": "/static/js/main.8a41f094.js.map",
+    "main.0e8cf27a.css.map": "/static/css/main.0e8cf27a.css.map",
+    "main.0e82d3a7.js.map": "/static/js/main.0e82d3a7.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97240215.css",
-    "static/js/main.8a41f094.js"
+    "static/css/main.0e8cf27a.css",
+    "static/js/main.0e82d3a7.js"
   ]
 }
